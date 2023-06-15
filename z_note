@@ -1,0 +1,31 @@
+SimpleGrantedAuthority: what is it ?
+
+Login: how to spring retrieve file login.html
+    - process: create account Admin -- and auto create row  in admins_role table
+
+AuthController: what is model ?
+
+Product html: not get attribute actived.
+    - quá trình lấy biến này ra kiểu gì.
+ProductIml: hàm transfer bị sai rồi.
+    - convert sao biến actived luôn false.
+Product model:
+    - Làm sao Spring map field is_actived(DB) với actived ở model.
+
+Cart session: khai hay dùng packeage nào z ta -> sao dùng chung cho cả app được nhỉ.
+
+==============Task===================================================
+
+Login: register Facebook, Google + forgot pass(send mail)
+
+Product: panigation product/0
+Product: sửa lại chỗ upload img -> sao push thẳn nguyên file image lên data luôn.
+
+Profile Update: chưa được.
+
+Cart: CRUD not working
+
+
+
+
+
